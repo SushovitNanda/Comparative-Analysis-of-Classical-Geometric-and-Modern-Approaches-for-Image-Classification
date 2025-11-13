@@ -34,7 +34,7 @@ When you execute the notebooks, the following result files will be generated:
 - **ResNet-18** (`resnet-18/`): Deep learning experiment results
 - **CLIP** (`CLIP_results/mnist/`): Zero-shot classification results
 
-## 🔬 Methodology
+##  Methodology
 
 ### Dataset Preparation
 
